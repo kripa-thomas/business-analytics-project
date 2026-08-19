@@ -1,7 +1,7 @@
 # SuperFoodsMax Revenue Growth Analysis and Recommendations
 
 ## Project Overview
-This project analyses transactional point-of-sale data from **SuperFoodsMax** spanning January 2019 to May 2022. The primary objective is to evaluate historical sales, customer loyalty behaviour, and product pricing dynamics to identify data-driven strategies for achieving a **5% revenue increase over a two-year period**.
+This project analyses transactional point-of-sale data from **SuperFoodsMax** spanning January 2019 to May 2022. The primary objective is to evaluate historical sales, customer loyalty behaviour, and product pricing dynamics to identify data-driven strategies for achieving a **5% revenue increase over a two-year period**. The analysis was conducted in Python using Jupyter Notebook.
 
 ## Business Question
 > **How can SuperFoodsMax achieve a 5% revenue growth over the next two years by optimising customer loyalty retention, converting new/promiscuous shoppers, and leveraging high-performing product categories?**
