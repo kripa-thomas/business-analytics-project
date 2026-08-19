@@ -1,4 +1,4 @@
-# SuperFoodsMax Revenue Growth Analysis
+# SuperFoodsMax Revenue Growth Analysis and Recommendations
 
 ## Project Overview
 This project analyses transactional point-of-sale data from **SuperFoodsMax** spanning January 2019 to May 2022. The primary objective is to evaluate historical sales, customer loyalty behaviour, and product pricing dynamics to identify data-driven strategies for achieving a **5% revenue increase over a two-year period**.
